@@ -1,5 +1,6 @@
  <p>原项目网址 https://vuescrolljs.yvescoding.org/</p>
  <p>项目中引用了vuescroll滚动条，更新的时候发现横向滚动条无法移动，但是版本号未更改，不能fork项目了，复制了以前的一份直接上传到了github上，防止更新后滚动条异常情况。</p>
+ <p>此项目仅仅是复制此https://github.com/YvesCoding/vuescroll项目</p>
  <p align="center"><a href="http://vuescrolljs.yvescoding.org/"><img width="100" src="http://vuescrolljs.yvescoding.org/logo.png" /></a></p>
 <h1 align="center">Vuescroll</h1>
 <p align="center">
